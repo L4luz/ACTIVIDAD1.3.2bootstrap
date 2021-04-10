@@ -1,8 +1,16 @@
+
+
 .jumbotron{
 background-color: orange;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
 }
 footer{
     background-color: orange;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
 }
 nav{
     background-color: ora;
@@ -11,3 +19,53 @@ nav{
     background-color: orange;
 }
 
+.nav-pills .nav-link.active,
+.show>.nav-pills .nav-link{
+    background:orange!important
+    
+}
+.nav-pills a{
+    color: orange;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+#demo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:10px;
+    margin-bottom: 100px;
+    background-color: orange;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.col1{
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+.col2{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.col3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.col4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.informacion{
+    background-color: orange;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

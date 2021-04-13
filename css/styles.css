@@ -36,10 +36,14 @@ nav{
     margin-bottom: 100px;
     background-color: orange;
 }
+.carousel-inner{
+    margin-left: 60px;
+
+
+}
 img{
     margin-bottom: 20px;
-
-
+    margin-top: 20px;
 }
 
 footer{

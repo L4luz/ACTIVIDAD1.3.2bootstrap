@@ -35,37 +35,33 @@ nav{
     margin-top:10px;
     margin-bottom: 100px;
     background-color: orange;
-    margin-left: 100px;
-    margin-right: 100px;
 }
 img{
-    margin-top: 20px;
     margin-bottom: 20px;
 
 
 }
-.col1{
-    margin-top: 20px;
-    margin-left: 80px;
-    margin-bottom: 20px;
+
+footer{
+    margin-top: 2rem;
 }
-.col2{
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-}
-.col3{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 50px;
-}
-.col4{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 50px;
-}
-.informacion{
+
+   
+    
+.card  .btn{
     background-color: orange;
+    border: orange;
+}
+.container-fluid .card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.container-fluid .col-3{
+    background-color: orange;
+    margin-top: 10px;
+}
+.row-comAdo .jumbotron{
+    color: black;
     margin-top: 20px;
-    margin-bottom: 20px;
 }
